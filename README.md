@@ -1,5 +1,5 @@
 # vue_router_template
-
+Template used for learning routing in vue3
 ## Project setup
 ```
 npm install
