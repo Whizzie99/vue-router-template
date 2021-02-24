@@ -1,5 +1,5 @@
 # vue_router_template
-Template used for learning routing in vue3
+Template used for learning routing in vue3 alongside json server.
 ## Project setup
 ```
 npm install
